@@ -16,8 +16,6 @@ img {
 }
 .img-responsive {
   display: block;
-  width: 100% \9;
-  max-width: 100%;
 }
 .img-rounded {
   border-radius: 6px;
